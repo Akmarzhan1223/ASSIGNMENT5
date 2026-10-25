@@ -1,4 +1,4 @@
-# Assignment 5 - Frontend
+# Assignment 5
 
 Name: Akmarzhan Nurtas
 Group: SE-2538
