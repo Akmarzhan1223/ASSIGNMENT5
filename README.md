@@ -35,4 +35,4 @@ I made a list for hobbies. The "Add item" button creates new li element. The "Re
 
 ## Summary
 
-First I made the userProfile object and did the calculations in console. Then I built the form and added event listener to update the object. After that I made the list with add and remove buttons using createElement, appendChild and removeChild. I tested everything in the browser and checked console for errors. Everything works.
+I made the userProfile object and did the calculations in console. Then I built the form and added event listener to update the object. After that I made the list with add and remove buttons using createElement, appendChild and removeChild. I tested everything in the browser and checked console for errors. Everything works.
