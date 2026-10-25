@@ -1,0 +1,36 @@
+body {
+    padding:40px 20px;
+    text-align: center;
+    background-color: lightpink;
+}
+h1 {
+    margin-bottom: 25px;
+    
+}
+p {
+    text-align: center;
+}
+input {
+    padding: 10px;
+    border: 2px solid black;
+    
+}
+button {
+    padding: 10px 15px;
+    background-color: hotpink;
+    font-size: 15px;
+
+} 
+.box ul {
+    text-align: left;
+}
+
+
+.box li {
+    margin: 8px 0;
+    padding: 10px 15px;
+    background-color: #fff5f8;
+    border: 1px solid #f0c1d3;
+    border-radius: 8px;
+    
+}
